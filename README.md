@@ -1,0 +1,4 @@
+EasyRess
+========
+
+Simplifies chain ressing.
