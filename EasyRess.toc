@@ -1,0 +1,8 @@
+﻿## Interface: 11200
+
+## Title: EasyRess
+## Notes: Cast and drink!
+## Author: Numielle
+## Version: 0.2
+
+EasyRess.lua

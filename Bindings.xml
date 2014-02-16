@@ -1,0 +1,10 @@
+<Bindings>
+	<Binding name="EasyRess" header="EasyRess">
+		easyRess();
+	</Binding>
+	<Binding name="EasyDrink">
+		easyDrink();
+	</Binding>
+</Bindings>
+
+
