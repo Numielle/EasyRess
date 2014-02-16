@@ -64,6 +64,7 @@ end
 
 local priorities = {
 	["Conjured Crystal Water"] = 100,	
+	["Blessed Sunfruit Juice"] = 90,
 	["Conjured Sparkling Water"] = 80,
 	["Morning Glory Dew"] = 79,
 	["Conjured Mineral Water"] = 60,
